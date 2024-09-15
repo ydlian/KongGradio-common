@@ -11,17 +11,3 @@
 ## project structure
 * konggradio-bom common data models and defines
 * 
-
-
-
-
-
-
-
-
-
-
-
-
-
-"# konggradio-common" 
