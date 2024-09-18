@@ -10,4 +10,4 @@
 
 ## project structure
 * konggradio-bom common data models and defines
-* 
+* common module for konggradio microservice framework 
