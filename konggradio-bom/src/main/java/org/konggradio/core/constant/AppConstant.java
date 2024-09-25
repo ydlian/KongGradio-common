@@ -39,7 +39,6 @@ public interface AppConstant {
     static final String GATEWAY_NOTICE_DONG_LIST_URI = "/config/getDongList";
     static final String GATEWAY_NOTICE_MOBILE_LIST_URI = "/config/getMobileList";
 
-    static final String SEND_MESSAGE_URI = "/szy-message-gate/gate/push";
     static final String GATEWAY_ADMIN_INTER_PROXY_URI_PREFIX = "/inter-proxy";
     static final String APP_HEALTH_URI = "/actuator/health";
 
