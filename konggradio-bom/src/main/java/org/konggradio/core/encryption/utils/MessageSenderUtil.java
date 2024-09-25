@@ -26,11 +26,11 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class MessageSenderUtil {
-    private static final Set<String> DEFAULT_DONG_LIST = new HashSet<>();
+    private static final Set<String> DEFAULT_NOTIFY_LIST = new HashSet<>();
     private static final Set<String> DEFAULT_SMS_LIST = new HashSet<>();
     
-    public static Set<String> getDefaultDongList(){
-        return DEFAULT_DONG_LIST;
+    public static Set<String> getDefaultNotifyList(){
+        return DEFAULT_NOTIFY_LIST;
     }
     public static Set<String> getDefaultSmsList(){
         return DEFAULT_SMS_LIST;
