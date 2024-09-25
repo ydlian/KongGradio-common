@@ -28,11 +28,7 @@ import java.util.Set;
 public class MessageSenderUtil {
     private static final Set<String> DEFAULT_DONG_LIST = new HashSet<>();
     private static final Set<String> DEFAULT_SMS_LIST = new HashSet<>();
-    static {
-        DEFAULT_DONG_LIST.add("lianyadong1");
-        DEFAULT_SMS_LIST.add("13717626202");
-        //DEFAULT_DONG_LIST.add("lianyadong1");
-    }
+    
     public static Set<String> getDefaultDongList(){
         return DEFAULT_DONG_LIST;
     }
